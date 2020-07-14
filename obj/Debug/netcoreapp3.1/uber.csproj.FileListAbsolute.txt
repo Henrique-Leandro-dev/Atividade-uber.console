@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\bin\Debug\netcoreapp3.1\uber.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\uber\obj\Debug\netcoreapp3.1\uber.genruntimeconfig.cache
